@@ -1,0 +1,4 @@
+stepDefinitions\Hooks.class
+Run.class
+stepDefinitions\LoginSteps.class
+stepDefinitions\MultiRegion.class
